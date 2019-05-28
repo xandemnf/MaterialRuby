@@ -1,3 +1,13 @@
+##CONDICIONAIS
+# IF
+# ELSIF
+# ELSE
+# THEN
+# UNLESS
+# CASE
+# WHEN
+# TERNARIO
+
 a = 4
 b = 3
 
@@ -9,7 +19,7 @@ end
 
 #OUTRA MANEIRA DE FAZER O IF 
 # puts "OI" if a == 1
-# if a == 1 ; puts "ola" ; end5
+# if a == 1 ; puts "ola" ; end
 
 unless a < b
     puts "b é menor"
