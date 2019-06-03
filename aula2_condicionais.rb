@@ -39,13 +39,6 @@ puts c
 
 (a == 4) ? (puts "é igual a quatro") : (puts "é diferente de 4")
 
-puts 1+2
-puts 2*2
-puts 5-3
-puts 4/4
-puts 2**3
-puts 5%2
-
 a=1
 while a <= 10
     puts a

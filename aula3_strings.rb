@@ -59,12 +59,6 @@ puts a.index("de") #RESULTADO: 14
 a = "Alexandre Gonçalves Teixeira"
 puts a.reverse
 
-
-
-
-
-
-
 x = ARGV
 puts x
 
